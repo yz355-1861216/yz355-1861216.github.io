@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+}
+
+img{
+    float:left
+    margin: 10px
+}
+
+img {
+  border-radius: 50%;
+}
